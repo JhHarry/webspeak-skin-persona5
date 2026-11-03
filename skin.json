@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "persona5",
+  "name": "Persona5",
+  "version": "2.3.1",
+  "author": "Jh_Harry",
+  "license": "MIT (code) / Fan-made non-commercial (assets)",
+  "description": "女神异闻录5 皇家版 风格：红黑高对比、硬边阴影、斜切纹理与漫画分格。含主视觉背景与角色头像。",
+  "minAppVersion": "0.2.5",
+  "package": {
+    "ref": "v2.3.1",
+    "path": "persona5.wskin",
+    "sha256": "6bf3e23e4f7a1b907e3585dabef5d769fff4d94fc00faed9af6827f063a6baf2"
+  }
+}
