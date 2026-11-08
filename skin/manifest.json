@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "persona5",
   "name": "Persona5",
-  "version": "2.3.1",
-  "author": "Minis",
+  "version": "2.3.2",
+  "author": "Jh_Harry",
   "license": "Fan-made, non-commercial",
-  "minAppVersion": "0.2.5",
+  "minAppVersion": "0.2.9",
   "description": "女神异闻录5 皇家版 风格：红黑高对比、硬边阴影、斜切纹理与漫画分格。含主视觉背景与角色头像。",
   "entry": "skin.css",
   "preview": "assets/preview.jpg"
